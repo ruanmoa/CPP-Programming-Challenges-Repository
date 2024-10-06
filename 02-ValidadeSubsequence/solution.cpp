@@ -1,4 +1,3 @@
-//O(nlog(n)) time | O(1) space
 #include <algorithm>
 #include <iostream>
 #include "solution.h"
