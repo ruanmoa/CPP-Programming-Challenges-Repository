@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(04-TournamentWinner)
+project(05-Non-ConstructibleChange)
 
 # Set C++ standard
 set(CMAKE_CXX_STANDARD 14)
